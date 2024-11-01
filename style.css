@@ -1,0 +1,200 @@
+
+.b-monetguru {
+
+    min-height: 250px;
+    padding-top:30px;
+    max-width: 400px; 
+    position:relative;    
+    font-family: Tahoma, sans-serif;
+    font-size: 11px;
+    line-height: 18px;
+
+}
+
+
+/*=typo
+-----------------
+*/
+
+.b-monetguru h2 {
+    font-size: 18px;
+    font-weight: bold;
+    line-height: 24px;
+    font-family: Arial, sans-serif;
+    margin-bottom: 18px;
+}
+
+.b-monetguru a, .b-monetguru a:visited {
+    color: #21bbd7;
+}
+.b-monetguru a:hover, .b-monetguru a:active {
+    text-decoration: none;
+}
+
+.b-monetguru p {
+    margin-bottom: 18px;
+    font-size: 14px;
+    line-height: 20px;
+    
+}
+
+/*=elements
+----------------------
+*/
+
+
+.b-monetguru .b-wizard {
+    position: absolute;
+    left: 0;
+    right: 20px;
+    top:50%;
+      
+}
+
+.b-monetguru .b-wizard_step_1 {
+    min-height: 160px;
+    margin-top: -80px;
+}
+
+.b-monetguru .b-wizard_step_2 {
+    min-height: 160px;
+    margin-top: -80px;
+}
+
+.b-monetguru .b-wizard_dash {
+    min-height: 160px;
+    margin-top: -80px;
+    
+}
+
+
+
+
+/*=helpers
+---------------------------------
+*/
+
+.b-monetguru .u-fl-l {
+    float: left;
+    margin-right: 10px !important;
+}
+.b-monetguru .b-help {
+    font-size: 11px;
+    font-family: Tahoma, sans-serif;
+    line-height: 18px;
+    display: block;
+}
+
+
+
+/*=forms
+-----------------------
+*/
+
+.b-monetguru input[type="text"]:focus { 
+    outline: none;
+ }
+
+
+.b-monetguru .b-control {
+    position: relative;
+    margin-bottom: 10px;
+    
+}
+
+.b-monetguru .b-control__input input {
+
+border: 1px solid transparent;
+-webkit-box-shadow: 0 -1px 0 #e2e3e6;
+box-shadow: 0 -1px 0 #e2e3e6;
+color: #a0aab4;
+font-weight: bold;
+-webkit-box-sizing: border-box;
+-moz-box-sizing: border-box;
+box-sizing: border-box;
+height: 30px;
+width: 100%;
+padding: 2px 4px;
+border-radius:4px;
+line-height: 28px;
+font-family: Tahoma, sans-serif;
+font-size: 11px;
+transition: 0 !important;
+    
+}
+
+.b-monetguru .b-control__input input:focus {
+    border: 0;
+    outline: none;
+    transition:0;
+    -webkit-box-shadow: 0 -1px 0 #e2e3e6 !important;
+                    box-shadow: 0 -1px 0 #e2e3e6 !important;
+    
+}
+
+
+.b-monetguru .b-control__label {
+    text-transform: uppercase;
+    color: #1e1e1e;
+    display: block;
+    font-size: 11px;
+    line-height: 20px;
+    font-family: Tahoma, sans-serif;
+    margin-bottom: 5px;
+    cursor: text;
+}
+
+.b-monetguru .error {
+    display: none;
+    color:#b83100;
+    position: absolute;
+    right: 0;
+    top:0;
+    font-weight: bold;
+
+}
+
+.b-monetguru .b-control_error .error {
+    display: block;
+    
+}
+
+.b-monetguru .b-control_error input {
+    border:3px solid #b83100;
+}
+
+
+.b-monetguru .b-control__btn {
+    background-color: #21bbd7;
+    text-shadow: -1px -1px 0 rgba(16,157,195,0.6);
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #fff;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;    
+    margin: 0;
+    cursor: pointer;
+    border: none !important;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+    text-align: center;
+    text-decoration: none !important;
+    display: inline-block;
+    vertical-align: top;
+    font-size: 11px;
+    line-height: 18px;
+    
+}
+
+.b-monetguru .b-control__btn:hover {
+    background-color: #ffb900;
+    text-shadow:-1px -1px 0 rgba(255,134,0,0.6);
+}
+.b-monetguru .b-control__btn:focus {
+    outline: none;
+}

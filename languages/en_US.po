@@ -1,0 +1,81 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: SmartyAds Plugin v 1.0\n"
+"POT-Creation-Date: 2014-10-16 13:19+0200\n"
+"PO-Revision-Date: 2014-10-16 13:19+0200\n"
+"Last-Translator: \n"
+"Language-Team: SmartyAds Team <support@smartyads.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.5\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: ../.\n"
+
+#: .././smartyads-widget.php:7
+msgid "SmartyAds Widget"
+msgstr ""
+
+#: .././smartyads-widget.php:29
+msgid "Widget Title"
+msgstr ""
+
+#: .././smartyads-widget.php:36
+msgid "Ad Zone:"
+msgstr ""
+
+#: .././smartyads-widget.php:52
+msgid "This site does not have any ad zone."
+msgstr ""
+
+#: .././smartyads.php:50
+msgid "SmartyAds"
+msgstr ""
+
+#: .././smartyads.php:61 .././smartyads.php:78
+msgid "Plugin Dashboard"
+msgstr ""
+
+#: .././smartyads.php:64
+msgid "ad zone(s) has been added. You can set your ad zones in"
+msgstr ""
+
+#: .././smartyads.php:66
+msgid "This site doesn`t have any ad zone. To add zones please visit"
+msgstr ""
+
+#: .././smartyads.php:66
+msgid "Add Inventory"
+msgstr ""
+
+#: .././smartyads.php:70
+msgid "Finish"
+msgstr ""
+
+#: .././smartyads.php:80
+msgid "Website API Key"
+msgstr ""
+
+#: .././smartyads.php:82
+msgid "Don't have an account yet?"
+msgstr ""
+
+#: .././smartyads.php:82
+msgid "Sign Up"
+msgstr ""
+
+#: .././smartyads.php:82
+msgid "To create an account."
+msgstr ""
+
+#: .././smartyads.php:83
+msgid "Wrong API Key"
+msgstr ""
+
+#: .././smartyads.php:85
+msgid "Sync"
+msgstr ""
